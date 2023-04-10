@@ -1,0 +1,34 @@
+Les composents
+les props
+props{nom = "..." moyenne = "..."}
+on peut intégrer de js dans du jsx avec les {}
+
+propréte children pour mettre d'autre éléméents dans les modules 
+
+le state pour enregistrer
+
+statefull(gere les state) et stateless(ne gere pas les states)
+statfull/countainer : composent qui contient  un state
+stateless/component : compoasnt qui ne gere pas un state
+
+La bonne methode : le - moins de statfull
+
+npm install admin-lte --save
+npm install material-dashboard --save.
+npm install d3 --save
+npm install chart.js --save
+
+
+les extensions :
+ Reactjs code snippets
+ HTML to JSX
+
+
+ npm config set legacy-peerdeps true
+
+git branch nom_de_la_branche
+git checkout nom_de_la_branche
+git add .
+git commit -m "votre_message_de_commit
+
+git push -u origin nom_de_la_branche

@@ -1,0 +1,11 @@
+.eleve{
+    background: color #f5f5f5;
+    border:1px solid silver;
+    font-family : arial;
+    margin :15px;
+    padding :30px;
+    display:inline-block;
+    width:300px;
+    text-align: left;
+  
+  }
